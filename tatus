@@ -1,0 +1,23 @@
+[33mcommit 86105c7a8556b424598b01f22530889ea7c4891c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: smokecookeat <124392887+smokecookeat@users.noreply.github.com>
+Date:   Sat Jun 1 18:16:41 2024 -0700
+
+    hello_world.txt
+
+[33mcommit 4b223c70ffef431f0dd3e76c6dab156a4bc72547[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: smokecookeat <124392887+smokecookeat@users.noreply.github.com>
+Date:   Sat Jun 1 18:08:22 2024 -0700
+
+    Edit README.md
+
+[33mcommit 23baf5b158021f110653ca833232e342217aacaa[m
+Author: smokecookeat <124392887+smokecookeat@users.noreply.github.com>
+Date:   Sat Jun 1 18:03:39 2024 -0700
+
+    Add hello_world.txt
+
+[33mcommit ec9c966697307db6eea634b997f00d2d047fabf0[m
+Author: smokecookeat <124392887+smokecookeat@users.noreply.github.com>
+Date:   Sat Jun 1 17:58:36 2024 -0700
+
+    Initial commit
